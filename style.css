@@ -14,9 +14,10 @@ body {
   align-items: center;
   text-align: center;
   padding: 1%;
+  color: rgb(62, 19, 6);
 }
 .logo {
-  width: 5%;
+  width: 10%;
   float: right;
 }
 .img1 {
@@ -51,6 +52,7 @@ body {
 
 .middle {
   width: 45%;
+  color: aliceblue;
 }
 
 /* Clear floats after the columns */
@@ -65,7 +67,8 @@ body {
 }
 .test {
   width: 200px;
-  height: 25px;
+  height: 40px;
+  background: pink;
 }
 .hyperlink{
     align-items: center;
